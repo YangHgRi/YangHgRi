@@ -60,7 +60,14 @@
       "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
     }
   ],
-  "skillList": [],
+  "skillList": [
+    {
+      "skill_name": "Java",
+      "skill_level": 100,
+      "skill_desc": "like u see",
+      "dataIndex": 0
+    }
+  ],
   "projectList": [
     {
       "project_name": "数据作战室",
