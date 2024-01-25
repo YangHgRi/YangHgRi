@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **YangHgRi/YangHgRi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![YangHgRi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangHgRi)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangHgRi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![YangHgRi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangHgRi&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangHgRi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
