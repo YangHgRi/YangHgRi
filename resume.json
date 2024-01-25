@@ -9,7 +9,7 @@
     "aboutme": "个人评价"
   },
   "avatar": {
-    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+    "src": "https://avatars.githubusercontent.com/u/57426791?v=4",
     "hidden": false
   },
   "profile": {
@@ -22,32 +22,15 @@
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2023.09.01",
+        "2025.07.01"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "school": "沈阳工业大学",
+      "major": "软件工程",
       "academic_degree": "本科"
     }
   ],
-  "awardList": [
-    {
-      "award_info": "英语 CET6",
-      "award_time": "2015"
-    },
-    {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
-    },
-    {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
-    },
-    {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
-    }
-  ],
+  "awardList": [],
   "workExpList": [
     {
       "company_name": "蚂蚁集团",
