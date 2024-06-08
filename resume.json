@@ -18,7 +18,7 @@
     "mobile": "15842216409",
     "github": "https://github.com/YangHgRi",
     "workExpYear": "3 月",
-    "workPlace": "沈阳 大连 北京",
+    "workPlace": "北京 大连 沈阳 ",
     "positionTitle": "java 开发工程师"
   },
   "educationList": [
@@ -57,8 +57,50 @@
   "skillList": [
     {
       "skill_name": "Java",
-      "skill_level": 100,
-      "skill_desc": "有较好的 java se 基础，常用 java 8 的新 api，对底层原理有一定的了解"
+      "skill_level": null,
+      "skill_desc": "java se：有较好的 java se 基础，常用 java 8 的新 api，对底层原理有一定的了解",
+      "dataIndex": 0
+    },
+    {
+      "skill_name": "JavaWeb",
+      "skill_level": null,
+      "skill_desc": "java web：熟练使用 Mybatis、SpringMVC、SpringCore 等框架，了解框架的 IOC、AOP 底层原理，熟练使用拦截器、动态 SQL、面向切面编程等技术",
+      "dataIndex": 1
+    },
+    {
+      "skill_name": "前端",
+      "skill_level": null,
+      "skill_desc": "前端：学习过原生 html css js，可以较初级的使用 vue 框架，具备常见 element-ui 组件的使用经验",
+      "dataIndex": 2
+    },
+    {
+      "skill_name": "MySQL",
+      "skill_level": null,
+      "skill_desc": "mysql：拥有常见表结构的设计能力，熟悉常用数据类型，了解索引、多表联查、逻辑删除等知识点并在工作中加以使用",
+      "dataIndex": 3
+    },
+    {
+      "skill_name": "Redis",
+      "skill_level": null,
+      "skill_desc": "redis：了解常用数据类型，练习过查询缓存、计数器、点赞、排行榜和分布式锁等常见应用场景，在私有云上部署过主从模型和哨兵集群模型，了解数据持久化的两种方式的技术细节和优劣项",
+      "dataIndex": 4
+    },
+    {
+      "skill_name": "rabbitmq",
+      "skill_level": null,
+      "skill_desc": "rabbitmq：了解不同类型交换器的区别，学习过消息持久化、消息确认、死信、延迟队列和备份交换机等技术点，了解该技术的优缺点和常见应用场景"
+    },
+    {
+      "skill_name": "linux",
+      "skill_level": null,
+      "skill_desc": "linux：了解常用的命令，在腾讯云上部署并维护自己的 ubuntu 系统云服务器",
+      "dataIndex": 6
+    },
+    {
+      "skill_name": "docker",
+      "skill_level": null,
+      "skill_desc": "docker：熟练使用常见命令，在私有云服务器上使用 docker 部署 mysql、redis、rabbitmq 等服务以满足个人的学习需求",
+      "dataIndex": 7
     }
   ],
   "projectList": [
@@ -67,13 +109,13 @@
       "project_role": "java 开发工程师",
       "project_time": "202.07 - 2022.09",
       "project_desc": "推进办公智能化、自动化，提高工作效率，降低系统成本",
-      "project_content": "1. 编写客户管理与发电场站管理等信息管理模块，实现了批量增删改查和 excel 格式导入导出的业务功能。\n2. 集成腾讯云的 OCR 接口，自动识别扫描身份证和车牌号等办公信息，提高了产品的使用体验和操作效率",
+      "project_content": "1. 编写客户管理与发电场站管理等信息管理模块，实现了批量增删改查和 excel 格式导入导出的业务功能。\n2. 集成腾讯云的 OCR 接口，自动识别扫描身份证和车牌号等办公信息，提高了产品的使用体验和操作效率\n3. 参与前端页面的编写和维护",
       "dataIndex": 0
     }
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "1. 具备一定的自学能力和习惯，在大学时经常去图书馆学习拓展自身知识面，丰富自身技术栈\n2. 工作认真，不满足于“能跑就行”，对代码的性能、逻辑和美观有着更高的要求，希望能写出易读、易懂并且实现优雅的代码\n3. 与人为乐，待人友善\n4. 社会经验不足，需要向同事学习"
+    "aboutme_desc": "1. 具备一定的自学能力和习惯，在大学时经常去图书馆学习拓展自身知识面，丰富自身技术栈\n2. 工作认真，不满足于“能跑就行”，对代码的性能、逻辑和美观有着更高的要求，希望能写出易读、易懂并且实现优雅的代码\n3. 与人为乐，待人友善，善于沟通\n4. 社会经验不足，需要向同事学习"
   },
   "theme": {
     "color": "#2f5785",
